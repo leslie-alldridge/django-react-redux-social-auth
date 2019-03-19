@@ -79,3 +79,7 @@ Run Django development http server
 
 * `$ cd src`
 * `$ python manage.py runserver`
+
+
+admin
+name and number
